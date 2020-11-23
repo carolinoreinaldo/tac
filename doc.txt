@@ -1,0 +1,11 @@
+ Tasks BackEnd : 
+ - [DONE] Mapear os endpoints corretamente de acordo com a convenção rest
+ - Colocar o swagger no projeto
+ - Colocar o projeto no Git
+ - Documentar o projeto no Git
+ - Mapear os erros nos endpoints
+ - Colocar log na aplicação
+ - Colocar no heroku
+ - Colocar endpoint para limpar o BD
+ 
+ Tasks FrontEnd :
